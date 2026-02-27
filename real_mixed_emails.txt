@@ -1,0 +1,133 @@
+Subject: Welcome to Axis Bank Online Banking
+
+Dear Customer,
+Your Axis Bank savings account has been successfully activated.
+Please review your recent transaction history and credit card statements.
+Axis Bank Customer Support
+
+
+Subject: PayPal Payment Confirmation
+
+Hello,
+A payment has been processed through your PayPal account.
+If this was not authorized, contact PayPal immediately.
+
+Regards,
+PayPal Security
+
+
+Subject: LinkedIn Job Opportunity Alert
+
+Hi,
+A recruiter has viewed your LinkedIn profile.
+Update your resume to increase your job visibility.
+
+LinkedIn Careers Team
+
+
+Subject: Amazon Order Confirmation
+
+Hello,
+Your order from Amazon has been shipped.
+Track your delivery using your Amazon account.
+
+Thank you,
+Amazon India
+
+
+Subject: Flipkart Super Sale Offer
+
+Dear User,
+Exclusive deals are available in your Flipkart cart.
+Complete your purchase before the offer expires.
+
+Flipkart Promotions
+
+
+Subject: Netflix Subscription Renewal
+
+Hello,
+Your Netflix membership has been renewed successfully.
+Enjoy uninterrupted streaming.
+
+Netflix Billing Team
+
+
+Subject: Instagram Login Alert
+
+Hi,
+Your Instagram account was accessed from a new device.
+If this was not you, secure your profile immediately.
+
+Instagram Security
+
+
+Subject: Google Account Security Notice
+
+Dear User,
+A new device has signed into your Google account.
+Review your security activity.
+
+Google Security
+
+
+Subject: HDFC Bank Credit Card Statement
+
+Dear Customer,
+Your monthly HDFC Bank credit card statement is ready.
+Please review your outstanding balance and payment due date.
+
+HDFC Bank
+
+
+Subject: ICICI Bank Loan Offer
+
+Dear Customer,
+You are eligible for a pre-approved personal loan from ICICI Bank.
+Check your loan eligibility today.
+
+ICICI Bank Finance
+
+
+Subject: Microsoft Account Activity
+
+Hello,
+Your Microsoft account password was changed successfully.
+
+Microsoft Account Team
+
+
+Subject: Coursera Course Enrollment Confirmation
+
+Hi,
+You have successfully enrolled in a new course on Coursera.
+Continue your learning journey.
+
+Coursera Team
+
+
+Subject: Zomato Order Delivered
+
+Hello,
+Your recent order from Zomato has been delivered.
+Rate your food experience in the app.
+
+Zomato Support
+
+
+Subject: SBI Bank OTP Notification
+
+Dear Customer,
+Your SBI Bank OTP for transaction verification is 543210.
+Do not share this OTP with anyone.
+
+State Bank of India
+
+
+Subject: Twitter Security Alert
+
+Hi,
+A new login to your Twitter account was detected.
+If this wasn't you, reset your password immediately.
+
+Twitter Security Team

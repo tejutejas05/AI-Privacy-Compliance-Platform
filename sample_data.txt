@@ -1,0 +1,65 @@
+Subject: Welcome to Amazon!
+
+Hi John,
+Your Amazon account has been successfully created. 
+Your first order has been placed and will be delivered soon.
+
+Thank you for shopping with Amazon.
+
+
+Subject: LinkedIn Job Alert
+
+Dear John,
+A new job opportunity matching your profile is available.
+Update your LinkedIn resume to apply.
+
+Best,
+LinkedIn Team
+
+
+Subject: HDFC Bank Transaction Alert
+
+Dear Customer,
+A debit transaction of ₹5,000 has been made using your HDFC Bank credit card.
+If this was not you, contact HDFC Bank immediately.
+
+Regards,
+HDFC Bank
+
+
+Subject: Netflix Subscription Renewal
+
+Hello John,
+Your Netflix subscription has been renewed successfully.
+Your membership will continue until next month.
+
+Thanks,
+Netflix
+
+
+Subject: Instagram Security Notification
+
+Hi John,
+We noticed a login attempt to your Instagram account from a new device.
+If this wasn't you, please secure your account immediately.
+
+Instagram Security Team
+
+
+Subject: Google Account Activity
+
+Dear John,
+Your Google account was used to sign in to a new application.
+Review your account activity to ensure everything looks right.
+
+Google Security
+
+
+Subject: PayPal Payment Confirmation
+
+Hello,
+You have sent a payment using PayPal.
+If you did not authorize this transaction, contact PayPal support.
+
+Thank you,
+PayPal
