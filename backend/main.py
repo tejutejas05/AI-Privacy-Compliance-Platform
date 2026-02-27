@@ -10,7 +10,7 @@ app = FastAPI(title="PrivacyGuard API")
 # Enable CORS for React frontend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],  # Change to frontend URL in production
+    allow_origins=["*"],  # Change to frontend URL in production
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
