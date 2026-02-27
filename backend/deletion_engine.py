@@ -25,3 +25,5 @@ Regards,
 """
 
     return letter, request_id
+
+    
